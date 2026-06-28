@@ -1,0 +1,10 @@
+openai
+numpy
+pandas
+pymatgen
+ase
+spglib
+chgnet
+torch
+tqdm
+python-dotenv
