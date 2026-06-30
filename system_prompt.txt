@@ -31,9 +31,9 @@ The generated structures should satisfy:
 
 7. Structures should be synthesizable.
 
-Output ONLY one CIF file.
+Output ONLY JSON.
 
 Do not explain.
 Do not output markdown.
 
-Only output CIF.
+
