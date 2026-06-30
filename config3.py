@@ -20,3 +20,28 @@ LAYER_SHIFT = {
 MAX_VACANCY_FRACTION = 0.05
 
 MIN_INTERATOMIC_DISTANCE = 0.8
+
+SPECIES_POOL = {
+
+"Bi":["Sb","As"],
+
+"Sb":["Bi","As"],
+
+"Te":["Se","S"],
+
+"Se":["Te","S"],
+
+"Sn":["Ge","Pb"]
+
+}
+FITNESS = {
+
+"stability":0.45,
+
+"novelty":0.30,
+
+"diversity":0.15,
+
+"validity":0.10
+
+}
